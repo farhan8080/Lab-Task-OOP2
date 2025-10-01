@@ -1,0 +1,8 @@
+D:\c#\CricketApp\CricketApp\obj\Debug\CricketApp.csproj.AssemblyReference.cache
+D:\c#\CricketApp\CricketApp\obj\Debug\CricketApp.csproj.CoreCompileInputs.cache
+D:\c#\CricketApp\CricketApp\bin\Debug\CricketApp.exe.config
+D:\c#\CricketApp\CricketApp\bin\Debug\CricketApp.exe
+D:\c#\CricketApp\CricketApp\bin\Debug\CricketApp.pdb
+D:\c#\CricketApp\CricketApp\obj\Debug\CricketApp.exe
+D:\c#\CricketApp\CricketApp\obj\Debug\CricketApp.pdb
+D:\c#\CricketApp\CricketApp\obj\Debug\CricketApp.exe.config
